@@ -1,5 +1,5 @@
 {
-  "name": "parcel-reactjs",
+  "name": "nutrition-app",
   "version": "1.0.0",
   "description": "A minimal React.js boilerplate with parcel as bundler",
   "main": "index.js",
@@ -10,13 +10,13 @@
     "parcel",
     "react"
   ],
-  "author": "“Robin <“wrobin@gmx.net”> (https://www.robinwieruch.de)",
+  "author": "Tiago Filipe <tiagofilipe93@live.com>",
   "license": "MIT",
   "dependencies": {
     "react": "^16.8.6",
     "react-dom": "^16.8.6"
   },
   "devDependencies": {
-    "parcel-bundler": "^1.12.3"
+    "parcel": "^1.12.4"
   }
 }
